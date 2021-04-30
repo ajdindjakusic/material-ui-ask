@@ -12,8 +12,4 @@
 
 ## Notes
 
-- JWT implementation files not completed
-- Folders Dto, Middleware and Service are just boilerplates imported for learning how it works
-
-
 
